@@ -4,7 +4,7 @@
 80#VERS#BASED####: http://www.worldcat.org/oclc/843381508
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/843381508
 80#VERS#LINKS####: https://k-tb.com/book/trajm01360-المؤتلف-والمختلف-المعروف-بالأنساب-المتفقة-في-الخط-المتماثلة-في-النقط-والضبط-ويليه-زيادات-الأصفهاني
-90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: The second part of the book “زيادات الحافظ محمد بن أبي بكر عمر بن أحمد بن عمر أبي موسى الأصبهاني المتوفى سنة 581 ه على كتاب الأنساب المتفقه في الخط المتماثلة في النقط والضبط لابن القيسراني” is an appendix written by a different author (page 146 ff). I opened a “MORE THAN ONE TEXT” issue for it.
+90#VERS#ANNOTATOR: HRH, PV
+90#VERS#COMMENT##: PV removed the appendix.
 90#VERS#DATE#####: 2020-05-19
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
