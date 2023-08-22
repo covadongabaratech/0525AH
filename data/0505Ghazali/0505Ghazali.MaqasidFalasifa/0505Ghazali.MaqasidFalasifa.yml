@@ -1,7 +1,7 @@
 00#BOOK#URI######: 0505Ghazali.MaqasidFalasifa
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: Maqāṣid al-falāsifaŧ
+10#BOOK#TITLEB#AR: Maqāṣid al-falāsifaŧ fī al-manṭiq wa-al-ḥikma al-ilāhiyya wa-al-ḥikma al-ṭabīʿiyya
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
