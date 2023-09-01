@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://waqfeya.com/book.php?bid=9739
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Occasionally titles differ, othwerwise very good
-    edition.
+        edition.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-06-29
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

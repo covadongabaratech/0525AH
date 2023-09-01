@@ -5,6 +5,8 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/122761358
 80#VERS#LINKS####: https://waqfeya.com/book.php?bid=5940
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##:
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-05-24
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
