@@ -10,5 +10,6 @@
     is why the two WorldCat links are the same). This probably explains why
     the place of Quranic verses is different in some pages; anyway, this has
     no effect on the consistency of the text.
+    PV removed editorial introduction
 90#VERS#DATE#####: 2019-08-02
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION
