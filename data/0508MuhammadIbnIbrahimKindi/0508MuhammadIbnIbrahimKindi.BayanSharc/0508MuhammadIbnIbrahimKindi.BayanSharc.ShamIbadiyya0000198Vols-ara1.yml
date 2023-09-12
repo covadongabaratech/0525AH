@@ -7,5 +7,10 @@
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
     use consistently)
 90#VERS#COMMENT##: MGR merged the separate volumes into one
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0525AH/pre-clean/data/0508MuhammadIbnIbrahimKindi/0508MuhammadIbnIbrahimKindi.BayanSharc/0508MuhammadIbnIbrahimKindi.BayanSharc.ShamIbadiyya0000198Vols-ara1
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

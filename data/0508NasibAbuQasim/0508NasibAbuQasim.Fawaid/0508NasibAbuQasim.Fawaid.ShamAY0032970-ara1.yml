@@ -10,5 +10,10 @@
 90#VERS#COMMENT##: This file corresponds to a transcription of Ibn ʿAsākir’s riwāya
     of one the surviving parts of the Fawāʾid al-Nasīb (#13). For details on the work,
     see Ṭalāl b. Suʿūd al-Daʿjānī: Mawārid Ibn ʿAsākir, pp. 2158–2159.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0525AH/pre-clean/data/0508NasibAbuQasim/0508NasibAbuQasim.Fawaid/0508NasibAbuQasim.Fawaid.ShamAY0032970-ara1
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
