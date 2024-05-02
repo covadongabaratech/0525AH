@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 444797
+00#VERS#LENGTH###: 105826
+00#VERS#URI######: 0524IbnTumart.AcazzMaYutlab.AOCP20240501183-ara1
+80#VERS#BASED####: https://search.worldcat.org/title/4770186185
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####:
+    https://dn790000.ca.archive.org/0/items/A-azz.ma.yutlab/kitab.pdf
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: This text was OCR'ed as part of the second phase of the
+    OpenITI AOCP project, generously funded by the Andrew W. Mellon Foundation.
+    This file was created on 2024-05-01 17:02:13 UTC by eScriptorium version 0.13.8
+    Transcription model used: all_arabic_scripts
+    Average transcription confidence: 0.9684921237983795
+    issue with element 83 = p. 111 where someone accidentally turned the page while
+    copying, segmentation model faruthi_1; odd line missed, fixes by LMN
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: UNCORRECTED_OCR
