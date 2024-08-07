@@ -5,8 +5,7 @@
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####:
     https://dn790000.ca.archive.org/0/items/A-azz.ma.yutlab/kitab.pdf
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+90#VERS#ANNOTATOR: Covadonga Baratech
 90#VERS#COMMENT##: This text was OCR'ed as part of the second phase of the
     OpenITI AOCP project, generously funded by the Andrew W. Mellon Foundation.
     This file was created on 2024-05-01 17:02:13 UTC by eScriptorium version 0.13.8
@@ -14,5 +13,9 @@
     Average transcription confidence: 0.9684921237983795
     issue with element 83 = p. 111 where someone accidentally turned the page while
     copying, segmentation model faruthi_1; odd line missed, fixes by LMN
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: UNCORRECTED_OCR
+    The text has been reestructured and minor typos habe been corrected. The new structured has Maribel Fierro's approval 
+    (specialist in the field of the book). Two new headers, ### | أعز ما يطلب (line 17) and  ### | الأحاديث (line 6498), have 
+    been created. Page 111 was scaned twice, he first one had an issue (someone turned the page while copying the text). The 
+    duplicated and partially covered page has been deleted and the pagination following has been corrected.
+90#VERS#DATE#####: 2024-08-07
+90#VERS#ISSUES###: HEADERS

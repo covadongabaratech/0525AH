@@ -1,8 +1,18 @@
 00#BOOK#URI######: 0524IbnTumart.AcazzMaYutlab
+10#AUTH#ISM####LA: Muḥammad
+10#AUTH#KUNYA##LA: Abū ʿAbd Allãh
+10#AUTH#SHUHRA#LA: Ibn Tūmart
+11#AUTH#ISM####AR: محمد
+11#AUTH#KUNYA##AR: أبو عبد الله
+11#AUTH#SHUHRA#AR: ابن تومرت
+20#AUTH#BORN#####: [Igīlīz n’Warghan]
+20#AUTH#DIED#####: [Tinmal]
+20#AUTH#VISITED##: [Marrakesh], [Aghmat], BAJAYA_050E367N_S
+30#AUTH#BORN###AH: 471/475
+30#AUTH#DIED###AH: 524
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: Aʿazz mā yuṭlab
-10#BOOK#TITLEB#AR: 
-20#BOOK#WROTE####: URIs from Althurayya, comma separated
+10#BOOK#TITLEB#AR: أعزّ ما يطلب
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
     followed by abbreviation for relation type between brackets (see
